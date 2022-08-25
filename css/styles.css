@@ -67,9 +67,7 @@ button {
 
 .header {
   outline: 1px solid coral;
-  height: 80px;
-  padding-top: 32px;
-  padding-bottom: 32px;
+  /* height: 80px; */
 }
 .header .container {
   display: flex;
@@ -88,4 +86,14 @@ button {
 .nav-item {
 }
 .nav-link {
+  display: block;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+.nav-link:hover,
+.nav-link:focus {
+  color: red;
+}
+.current {
+  color: red;
 }
