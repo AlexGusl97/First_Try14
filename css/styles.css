@@ -67,6 +67,9 @@ button {
 
 .header {
   outline: 1px solid coral;
+  height: 80px;
+  padding-top: 32px;
+  padding-bottom: 32px;
 }
 .header .container {
   display: flex;
@@ -75,8 +78,10 @@ button {
 .header-logo {
 }
 .header-nav {
+  margin-left: auto;
 }
 .nav-list {
+  column-gap: 30px;
   display: flex;
   align-items: center;
 }
