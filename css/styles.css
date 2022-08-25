@@ -1,0 +1,14 @@
+:root {
+  --background-color: #ffffff;
+  --main-text-color: #212121;
+  --accent-color: tomato;
+  --main-font: Roboto, sans-serif;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--main-text-color);
+  font-family: var(--main-font);
+  font-size: 14px;
+  letter-spacing: 0.03em;
+}
