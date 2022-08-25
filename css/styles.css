@@ -66,12 +66,19 @@ button {
 /*------------ Header -------------*/
 
 .header {
+  outline: 1px solid coral;
+}
+.header .container {
+  display: flex;
+  align-items: center;
 }
 .header-logo {
 }
 .header-nav {
 }
 .nav-list {
+  display: flex;
+  align-items: center;
 }
 .nav-item {
 }
