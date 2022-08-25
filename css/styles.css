@@ -97,3 +97,18 @@ button {
 .current {
   color: red;
 }
+
+/*----------------hero------------*/
+
+.hero {
+  padding: 200px 0;
+  background-color: teal;
+  text-align: center;
+}
+.hero-title {
+}
+.hero-descr {
+}
+.hero-btn {
+  margin: 0 auto;
+}
