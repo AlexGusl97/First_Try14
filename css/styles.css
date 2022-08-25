@@ -60,5 +60,20 @@ button {
 
 .link {
   text-decoration: none;
+  color: inherit;
+}
 
+/*------------ Header -------------*/
+
+.header {
+}
+.header-logo {
+}
+.header-nav {
+}
+.nav-list {
+}
+.nav-item {
+}
+.nav-link {
 }
